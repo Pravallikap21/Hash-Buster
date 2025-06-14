@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/s0md3v/Hash-Buster"><img src="https://image.ibb.co/bSwkMe/bitmap.png" alt="Hash Buster"></a>
+  <a href="https://github.com/Pravallikap21/Hash-Buster"><img src="https://image.ibb.co/bSwkMe/bitmap.png" alt="Hash Buster"></a>
   <br>
   Hash Buster
   <br>
@@ -10,7 +10,7 @@
 <h4 align="center">Why crack hashes when you can bust them?</h4>
 
 <p align="center">
-  <a href="https://github.com/s0md3v/Hash-Buster/releases">
+  <a href="https://github.com/Pravallikap21/Hash-Buster/releases">
     <img src="https://img.shields.io/github/release/s0md3v/Hash-Buster.svg">
   </a>
   <a href="https://github.com/s0md3v/Hash-Buster/issues?q=is%3Aissue+is%3Aclosed">
