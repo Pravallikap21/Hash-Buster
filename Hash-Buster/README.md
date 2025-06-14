@@ -13,8 +13,8 @@
   <a href="https://github.com/Pravallikap21/Hash-Buster/releases">
     <img src="https://img.shields.io/github/release/s0md3v/Hash-Buster.svg">
   </a>
-  <a href="https://github.com/s0md3v/Hash-Buster/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues-closed-raw/s0md3v/Hash-Buster.svg">
+  <a href="https://github.com/Pravallikap21/Hash-Buster/issues?q=is%3Aissue+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues-closed-raw/Pravallikap21/Hash-Buster.svg">
   </a>
 </p>
 
